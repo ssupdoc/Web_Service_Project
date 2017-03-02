@@ -23,7 +23,7 @@ While there are many features in the application, APIs are create for the follow
 
 **Note:** Administrators can perform all the functions of the manager but managers cannot perform the function of the administrator (create new managers).
 
-**Note:** Since only the requried the APIs as per the web service requirements are provided, there maybe difficulty in testing the code. Hence a dump of teh database collections I used for development is in teh directory '/db/web_service'. Make use of it if required.
+**Note:** Since only the requried the APIs as per the web service requirements are provided, there maybe difficulty in testing the code. Hence a dump of teh database collections I used for development is in teh directory '/db/web_service'. Make use of it if required. Don't forget to run 'npm install' if you are testing the web service.
 
 **Note:** Since secure tokens cannot be generated as those APIs are not required and are removed, if you are using the 'web_service' database you may make use of the following JWT tokens for verification:
 
