@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("58b86a59789d51401b810044"), 
+    "manager_id" : "M01", 
+    "full_name" : "Rahul Chowdhary", 
+    "gender" : "male", 
+    "createdAt" : ISODate("2017-03-02T18:54:17.127+0000"), 
+    "updatedAt" : ISODate("2017-03-02T18:54:17.127+0000")
+}
+{ 
+    "_id" : ObjectId("58b86aad789d51401b810045"), 
+    "manager_id" : "M02", 
+    "full_name" : "Anjana Seth", 
+    "gender" : "female", 
+    "createdAt" : ISODate("2017-03-02T18:55:41.571+0000"), 
+    "updatedAt" : ISODate("2017-03-02T18:55:41.571+0000")
+}
+{ 
+    "_id" : ObjectId("58b8794be1c7bff022bee425"), 
+    "manager_id" : "M03", 
+    "full_name" : "Anirudh Rohit", 
+    "gender" : "male", 
+    "createdAt" : ISODate("2017-03-02T19:58:03.100+0000"), 
+    "updatedAt" : ISODate("2017-03-02T19:58:03.100+0000")
+}

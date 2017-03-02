@@ -1,0 +1,40 @@
+{ 
+    "_id" : ObjectId("58b86bfff7682df818632255"), 
+    "employee_id" : "E02", 
+    "full_name" : "Kiran Rana", 
+    "gender" : "female", 
+    "createdAt" : ISODate("2017-03-02T19:01:19.369+0000"), 
+    "updatedAt" : ISODate("2017-03-02T19:01:19.369+0000")
+}
+{ 
+    "_id" : ObjectId("58b86e0294c324601b819953"), 
+    "employee_id" : "E03", 
+    "full_name" : "Anjana Vakil", 
+    "gender" : "female", 
+    "createdAt" : ISODate("2017-03-02T19:09:54.288+0000"), 
+    "updatedAt" : ISODate("2017-03-02T19:09:54.288+0000")
+}
+{ 
+    "_id" : ObjectId("58b86e0c94c324601b819954"), 
+    "employee_id" : "E04", 
+    "full_name" : "Ram Prem", 
+    "gender" : "male", 
+    "createdAt" : ISODate("2017-03-02T19:10:04.501+0000"), 
+    "updatedAt" : ISODate("2017-03-02T19:10:04.501+0000")
+}
+{ 
+    "_id" : ObjectId("58b86e1594c324601b819955"), 
+    "employee_id" : "E05", 
+    "full_name" : "John Lennon", 
+    "gender" : "male", 
+    "createdAt" : ISODate("2017-03-02T19:10:13.849+0000"), 
+    "updatedAt" : ISODate("2017-03-02T19:10:13.849+0000")
+}
+{ 
+    "_id" : ObjectId("58b86e2394c324601b819956"), 
+    "employee_id" : "E06", 
+    "full_name" : "Keerthi Chawla", 
+    "gender" : "female", 
+    "createdAt" : ISODate("2017-03-02T19:10:27.569+0000"), 
+    "updatedAt" : ISODate("2017-03-02T19:10:27.569+0000")
+}
